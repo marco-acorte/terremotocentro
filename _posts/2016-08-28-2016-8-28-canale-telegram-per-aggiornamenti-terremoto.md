@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Canale Telegram per Aggiornamenti Terremoto
-categories: blog
+date: 2016-08-28 00:00:00 +02:00
+categories:
+- blog
+layout: post
 ---
 
 Se vuoi restare aggiornato con le nostre informazioni sul Terremoto usa il nostro canale di aggiornamenti Telegram.

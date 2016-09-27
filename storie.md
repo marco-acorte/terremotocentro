@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Storie
-permalink: /storie/
+permalink: "/storie/"
+layout: page
 ---
+
 {% assign storie = (site.storie | sort: 'date') %}
 
 <div class="posts">

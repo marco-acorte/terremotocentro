@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Solidarietà al quadrato - scuola già terremotata dona ad Amatrice
-categories: storie
+date: 2016-09-02 00:00:00 +02:00
+categories:
+- storie
+layout: post
 ---
 
 Di terremoto in terremoto, di donazione in donazione. La solidarietà che non muore rifiorisce per dare altra speranza. 

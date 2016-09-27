@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Sei uno sviluppatore? Se vuoi aiutaci!
-categories: blog
+date: 2016-08-26 00:00:00 +02:00
+categories:
+- blog
+layout: post
 ---
 
 Se sei uno sviluppatore o una sviluppatrice, di qualsiasi linguaggio di programmazione, conosci GitHub e vuoi dare una mano sei ben accetto/a!

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Mappe
-permalink: /mappe/
+permalink: "/mappe/"
+layout: page
 ---
 
 <div class="posts">

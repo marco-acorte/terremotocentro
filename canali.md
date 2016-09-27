@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Canali di comunicazione
-permalink: /canali/
+permalink: "/canali/"
+layout: page
 ---
 
 <div class="canali">

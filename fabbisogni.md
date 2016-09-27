@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Fabbisogni
-permalink: /fabbisogni/
+permalink: "/fabbisogni/"
+layout: page
 ---
+
 {% assign fabbisogni = (site.data.fabbisogni | sort: 'Data') %}
 {% for member in fabbisogni reversed %}
 

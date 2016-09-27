@@ -1,7 +1,10 @@
 ---
-layout: post
 title: Risorse e attività di mappatura su Openstreetmap
-categories: blog mappe
+date: 2016-08-29 00:00:00 +02:00
+categories:
+- blog
+- mappe
+layout: post
 ---
 
 La comunità italiana di Openstreetmap ha contribuito fin da subito alle attività a supporto dei soccorsi nelle aree interessate al terremoto. In particolare, decine di volontari si sono coordinati dapprima nell'aggiornare la cartografia della zona (essenzialmente strade ed edifici) ed, in seguito, nell'integrare i dati prodotti da [Copernicus EMS](http://emergency.copernicus.eu/mapping) sulla valutazione dei danni.

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Risorse disponibili
-permalink: /risorse-disponibili/
+permalink: "/risorse-disponibili/"
+layout: page
 ---
 
 {% for member in site.data.donazioni reversed %}

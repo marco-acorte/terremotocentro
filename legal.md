@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Note Legali
-permalink: /legal/
+permalink: "/legal/"
+layout: page
 ---
 
 Terremoto Centro Italia è un progetto promosso da ActionAid International Italia Onlus (di seguito “ActionAid”) e da Fondazione Realizza il Cambiamento, realizzato da un team di volontari e supportato da staff e volontari di ActionAid. 

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Il nostro archivio documentazione
-categories: blog
+date: 2016-09-04 00:00:00 +02:00
+categories:
+- blog
+layout: post
 ---
 
 Da oggi è operativo il nostro archivio documentazione. Lo trovate a [questo indirizzo](https://archive.org/details/@terremotocentroita). L'archivio è in divenire ma diventa strumento fondamentale di raccolta delle evidenze pubblicate da vari enti, organizzazioni etc...

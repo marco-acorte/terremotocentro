@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Aiutaci ad individuare le informazioni!
-categories: blog
+date: 2016-08-27 00:00:00 +02:00
+categories:
+- blog
+layout: post
 ---
 
 Stiamo cercando volontari per mantenere monitorate tutte le informazioni relative al terremoto.

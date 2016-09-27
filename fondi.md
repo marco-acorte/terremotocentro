@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Raccolte Fondi
-permalink: /fondi/
+permalink: "/fondi/"
+layout: page
 ---
 
 {% for member in site.data.raccolte %}

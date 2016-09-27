@@ -1,7 +1,11 @@
 ---
+title: Mappa delle immagini inviate dal bot Telegram con Tile gestito Humanitarian
+  OpenStreetMap Team
+date: 2016-09-01 00:00:00 +02:00
+categories:
+- blog
+- mappe
 layout: post
-title: Mappa delle immagini inviate dal bot Telegram con Tile gestito Humanitarian OpenStreetMap Team
-categories: blog mappe
 ---
 
 Il nostro [bot Telegram](http://telegram.me/TerremotoCentroItalia_bot) registra immagini inviate come segnalazione.

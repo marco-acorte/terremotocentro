@@ -1,7 +1,10 @@
 ---
-layout: post
 title: Waze supporta TerremotoCentroItalia
-categories: blog mappe
+date: 2016-08-31 00:00:00 +02:00
+categories:
+- blog
+- mappe
+layout: post
 ---
 
 Ringraziamo [Waze](https://www.waze.com/it/) per aver concesso a partire da stamattina gli aggiornamenti della viabilità a noi in modo che si potessero divulgare tramite i nostri canali informativi.

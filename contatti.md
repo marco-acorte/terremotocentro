@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Fonti
-permalink: /fonti/
+permalink: "/fonti/"
+layout: page
 ---
+
 {% for member in site.data.contatti %}
   <div class="row">
   <div class="col-md-2">

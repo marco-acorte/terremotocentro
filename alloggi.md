@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Alloggi
-permalink: /alloggi/
+permalink: "/alloggi/"
+layout: page
 ---
 
 <div class="panel-group">

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Link utili
-permalink: /link_utili/
+permalink: "/link_utili/"
+layout: page
 ---
 
 Di seguito alcuni link utili per ricevere informazioni sull'evento.

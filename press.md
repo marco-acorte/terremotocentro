@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Press
-permalink: /press/
+permalink: "/press/"
+layout: page
 ---
 
 Data            |Fonte                   |Titolo       |Link

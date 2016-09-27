@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Bollettino
-permalink: /bollettino/
+permalink: "/bollettino/"
+layout: page
 ---
 
 * [Aperte](#Aperte)

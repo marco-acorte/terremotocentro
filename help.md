@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Segnala
-permalink: /aiuto/
+permalink: "/aiuto/"
+layout: page
 ---
+
 <div class="segnala">
 <p>Se hai una necessità o vuoi comunicare aggiornamenti, ci sono numerosi modi di contattarci: </p>
  {% if site.author.facebook and site.footer-links-active.facebook %}

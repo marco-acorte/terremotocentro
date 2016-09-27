@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Raccolta Foto e Video
-categories: blog
+date: 2016-08-28 00:00:00 +02:00
+categories:
+- blog
+layout: post
 ---
 
 Stiamo predisponendo una raccolta nazionale di foto e video utili per documentare e informare sul terremoto.

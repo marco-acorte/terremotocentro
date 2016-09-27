@@ -1,7 +1,10 @@
 ---
-layout: post
 title: Una mappa partecipativa dei luoghi di raccolta di beni di prima necessità
-categories: blog mappe
+date: 2016-08-25 00:00:00 +02:00
+categories:
+- blog
+- mappe
+layout: post
 ---
 
 Grazie a [@dontyna](https://twitter.com/dontyna) ho scoperto la mappa "**[Centri Raccolta Beni per terremoto Centro Italia](http://umap.openstreetmap.fr/en/map/centri-raccolta-beni-per-terremoto-centro-italia_99556)**". Donata mi ha proposto (grazie) di integrarne l'alimentazione anche tramite un **foglio elettronico condiviso**.

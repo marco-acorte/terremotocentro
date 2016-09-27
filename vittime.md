@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Vittime
-permalink: /vittime/
+permalink: "/vittime/"
+layout: page
 ---
 
 Cognome         |Nome                    |Prefettura   |Data di nascita|Luogo di nascita    |Fonte

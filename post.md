@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Blog
-permalink: /post/
+permalink: "/post/"
+layout: page
 ---
+
 <div class="posts">
   {% for post in site.posts %}
     {% if post.categories contains 'blog' %}
